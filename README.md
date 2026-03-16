@@ -93,6 +93,7 @@ Use the interactive Swagger UI to test the `/predict` endpoint by providing valu
   "Locality": "90 Feet Road",
   "Quarter": "Jul-Sep 2024"
 }
+```
 
 Note: Ensure that the input values match the categorical values seen during model training (e.g., valid locality names and quarter formats).
 
